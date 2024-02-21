@@ -22,6 +22,7 @@ const hidingLoader = () => {
   const loader = document.querySelector('.loader');
   if (loader) {
     loader.remove();
+    
   }
 };
 
